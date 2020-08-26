@@ -46,7 +46,7 @@ const questions = [
   {
     type: "input",
     message:
-      'What license they would you  like to use? If you do not wish to use a license type "none" ',
+      'What license would you like to use? If you do not wish to use a license type "none" ',
     name: "license",
   },
   //Who else will contribute to the application other than the user
